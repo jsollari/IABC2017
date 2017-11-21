@@ -1,0 +1,1 @@
+Rscript --vanilla practical4_part2.r ../results/practical4.trg ../results/practical4.rej 1> ../results/practical4_part2_r.log 2> NUL

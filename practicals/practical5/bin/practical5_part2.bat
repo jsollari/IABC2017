@@ -1,0 +1,1 @@
+Rscript --vanilla practical5_part1.r ../results/practical5.dat 1> ../results/practical5_part1_r.log 2> NUL
